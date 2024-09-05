@@ -25,6 +25,6 @@
 
 <a href="https://info.flagcounter.com/erkR"><img src="https://s11.flagcounter.com/count2/erkR/bg_1C1C1C/txt_FFFFFF/border_474747/columns_8/maxflags_12/viewers_Guests/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/soloerr)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/soloaimanb)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

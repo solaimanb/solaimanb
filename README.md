@@ -1,3 +1,12 @@
+```
+                                             .__   .__   ___.                    .__         
+                                ____   __ __ |  |  |  |  \_ |__  _______ _____   |__|  ____  
+                               /    \ |  |  \|  |  |  |   | __ \ \_  __ \\__  \  |  | /    \ 
+                              |   |  \|  |  /|  |__|  |__ | \_\ \ |  | \/ / __ \_|  ||   |  \
+                              |___|  /|____/ |____/|____/ |___  / |__|   (____  /|__||___|  /
+                                   \/                         \/              \/          \/
+```
+
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soloman-err) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21963761) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mrsolaimanb)
